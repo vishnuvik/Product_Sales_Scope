@@ -62,9 +62,11 @@ Predicting the sales of electronic products based on values involves using data 
 
 ![image](https://user-images.githubusercontent.com/117017255/223995322-49ebd4f0-0fbd-4169-b3c9-8f5808a0ac94.png)
 
-# After Drill Down & Drill up
+# After Drill Down & Hierarchy Drill
 
 ![image](https://user-images.githubusercontent.com/117017255/223995716-78079005-3bb1-417f-aab6-1ee7bc87ef86.png)
+
+# Drill down on Phone category
 
 ![image](https://user-images.githubusercontent.com/117017255/223996016-bfaeec13-8fd8-472e-ae9b-934d1feed103.png)
 
