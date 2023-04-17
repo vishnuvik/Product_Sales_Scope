@@ -50,7 +50,8 @@ Predicting the sales of electronic products based on values involves using data 
 
 # Sales Insight Dashboard
 
-![image](https://user-images.githubusercontent.com/117017255/223996638-3db1a16a-b95c-488a-a49c-b0c4996c44f1.png)
+![image](https://user-images.githubusercontent.com/117017255/232593184-9a1de1eb-8099-430b-bd0b-594a24b7ec9a.png)
+
 
 # Performed OLAP Operations(Drill up, Drill down, Create Hierarchy, slicer etc...)
 
